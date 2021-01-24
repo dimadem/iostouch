@@ -60,7 +60,7 @@ function draw() {
   ambientMaterial(255, 255, 255);
   //noStroke();
   // texture(text);
-  box(10, 400, 250);
+  box(10, 400, 200);
  pop();
 
 }

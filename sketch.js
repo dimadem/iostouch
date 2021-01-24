@@ -59,8 +59,8 @@ function draw() {
   //normalMaterial();
   ambientMaterial(255, 255, 255);
   //noStroke();
- // texture(text);
-  box(200);
+  // texture(text);
+  box(10, 400, 250);
  pop();
 
 }
